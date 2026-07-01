@@ -368,26 +368,32 @@ TestFolder/
 
 ## 📸 Screenshots
 
-> Capture the following screenshots and place them in the `screenshots/` folder:
-
-| # | Screenshot | Filename | What to capture |
-|---|-----------|----------|-----------------|
-| 1 | Main Menu | `main_menu.png` | The full banner and menu options |
-| 2 | Organize Files | `organize_result.png` | Progress bar and success message |
-| 3 | Bulk Rename | `rename_result.png` | Rename confirmation and output |
-| 4 | Delete Empty Folders | `delete_empty.png` | Deleted folders listed with count |
-| 5 | Folder Statistics | `statistics_output.png` | Full statistics table |
-| 6 | Operation Log | `log_viewer.png` | Color-coded log entries |
-| 7 | CSV Export | `csv_export.png` | Export success message |
-| 8 | Project Structure | `folder_structure.png` | Terminal tree of the project |
-
-Once captured, add them here:
-
-```markdown
+### 1. Main Menu
 ![Main Menu](screenshots/main_menu.png)
+
+### 2. Organize Files
 ![Organize Result](screenshots/organize_result.png)
-![Statistics Output](screenshots/statistics_output.png)
-```
+
+### 3. Bulk Rename
+![Bulk Rename Result](screenshots/rename_result.png)
+
+### 4. Delete Empty Folders
+![Delete Empty Folders](screenshots/delete_empty.png)
+
+### 5. Folder Statistics
+![Folder Statistics](screenshots/statistics_output.png)
+
+### 6. Operation Log
+![Operation Log](screenshots/log_viewer.png)
+
+### 7. CSV Export
+![CSV Export](screenshots/csv_export.png)
+
+### 8. Project Structure
+![Project Structure](screenshots/folder_structure.png)
+
+### 9. GitHub Repository
+![GitHub Repository](screenshots/github_repo.png)
 
 ---
 
