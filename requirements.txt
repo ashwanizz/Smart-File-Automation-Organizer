@@ -1,0 +1,14 @@
+# ──────────────────────────────────────────────
+# Smart File Organizer — requirements.txt
+# ──────────────────────────────────────────────
+#
+# This project uses ONLY the Python standard library.
+# No external packages are required.
+#
+# Modules used:
+#   os, sys, shutil, logging, csv, datetime
+#
+# If you add optional extras later (e.g., colorama for
+# wider Windows colour support), list them below:
+#
+# colorama>=0.4.6

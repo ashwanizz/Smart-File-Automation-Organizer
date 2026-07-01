@@ -1,0 +1,4 @@
+These are sample notes for testing.
+- Item 1: Learn Python
+- Item 2: Build projects
+- Item 3: Upload to GitHub
