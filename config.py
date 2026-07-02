@@ -10,7 +10,7 @@ settings so every other module imports from one place.
 # ──────────────────────────────────────────────
 APP_NAME = "Smart File Organizer"
 APP_VERSION = "1.0.0"
-APP_AUTHOR = "Your Name"
+APP_AUTHOR = "Ashwani"
 
 # ──────────────────────────────────────────────
 # Extension → category mapping
